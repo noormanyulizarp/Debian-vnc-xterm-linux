@@ -1,0 +1,17 @@
+# Ignore cache directories
+.cache/
+.cargo/
+.config/
+
+# Ignore Gitpod-specific configuration
+.gitpod/
+
+# Ignore IDE-specific configurations
+.idea/
+.vscode-remote/
+
+# Ignore Python environment mirror
+.pyenv_mirror/
+
+# Ignore Go workspace directory
+go/
